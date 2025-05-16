@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Derek Trauner</h1>
-<h3 align="center">Current computer programming student with practical experience in front-end development using React, Python, and Java. I enjoy solving real problems and take pride in building things from the ground up. Quick to learn, focused on efficiency, and most motivated when tackling challenges I genuinely care about.</h3>
+<h3 align="center">Current computer programming student with practical experience in front-end development using React, Python, and Java.</h3>
 
 - 🔭 I’m currently working on [ClassConnect](https://classconnect.derktrauner.com)
 
