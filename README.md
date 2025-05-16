@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native, RESTful APIs**
 
-- 👨‍💻 All of my projects are available at [derktrauner.com (WIP)](https://derktrauner.com)
+- 👨‍💻 All of my projects are available at [derktrauner.com](https://derktrauner.com)
 
 - 📫 How to reach me **derektrauner@gmail.com**
 
