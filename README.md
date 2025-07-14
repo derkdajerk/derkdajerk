@@ -24,6 +24,7 @@
 
 
 <h3 align="left">📊 GitHub Stats:</h3>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=derkdajerk&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
