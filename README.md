@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Derek Trauner</h1>
 <h3 align="center">Current computer programming student with practical experience in front-end development using React, Python, and Java.</h3>
 
-- 🔭 I’m currently working on [ClassConnect](https://www.classconnectla.com/)
+- 🔭 I’m currently working on [ClassConnectLA](https://www.classconnectla.com/)
 
 - 🌱 I’m currently learning **React Native, RESTful APIs**
 
