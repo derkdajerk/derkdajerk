@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Derek Trauner</h1>
 <h3 align="center">Current computer programming student with practical experience in front-end development using React, Python, and Java.</h3>
 
-- 🔭 I’m currently working on [ClassConnect](https://classconnect.derktrauner.com)
+- 🔭 I’m currently working on [ClassConnect](https://www.classconnectla.com/)
 
 - 🌱 I’m currently learning **React Native, RESTful APIs**
 
-- 👨‍💻 All of my projects are available at [derktrauner.com](https://derktrauner.com)
+- 👨‍💻 All of my projects are available at [derektrauner.com](https://derektrauner.com/)
 
 - 📫 How to reach me **derektrauner@gmail.com**
 
