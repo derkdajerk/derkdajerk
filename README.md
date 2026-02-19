@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [ClassConnectLA](https://www.classconnectla.com/)
 
-- 🌱 I’m currently learning **React Native, RESTful APIs**
+- 🌱 I’m currently learning **Flutter, System Design**
 
 - 👨‍💻 All of my projects are available at [derektrauner.com](https://derektrauner.com/)
 
